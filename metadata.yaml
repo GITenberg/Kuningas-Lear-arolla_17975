@@ -1,0 +1,43 @@
+_repo: Kuningas-Lear-arolla_17975
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - Samuli S.
+    - S., Samuli
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2006-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17975'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+title: Kuningas Lear arolla
+url: http://www.gutenberg.org/ebooks/17975
